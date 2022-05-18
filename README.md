@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my personal portfolio](https://davidgarxa.com/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Deep concepts of Javascript**
 
 - 👨‍💻 All of my projects are available at [https://davidgarxa.com/](https://davidgarxa.com/)
 
