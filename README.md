@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Garcia</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate developer from Mexico</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidgarciamanzana" alt="davidgarciamanzana" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Typescript**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://davidgarxa.com/](https://davidgarxa.com/)
 
