@@ -52,6 +52,8 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidgarciamanzana&show_icons=true&locale=en&layout=compact"           alt="davidgarciamanzana" />
 </p>
+
+🧙‍♂️ One challenge a day to keep boredom at bay! 😉
 <a href="https://www.codewars.com/users/BrianorEC">
 <img src="https://www.codewars.com/users/BrianorEC/badges/large" alt="Codewars badge" ></img>
 </a>
