@@ -50,7 +50,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidgarciamanzana&show_icons=true&locale=en&layout=compact&langs_count=6"           alt="davidgarciamanzana" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidgarciamanzana&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=MVCPortfolio,Arrays---Flip-Cards,Drilling-Mud-Mex"           alt="davidgarciamanzana" />
 </p>
 
 🧙‍♂️ One challenge a day to keep boredom at bay! 😉
