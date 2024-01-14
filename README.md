@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidgarciamanzana" alt="davidgarciamanzana" /></a> </p>
 
-- 🔭 I’m currently working on **Typescript**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node**
 
 - 👨‍💻 All of my projects are available at [https://davidgarxa.com/](https://davidgarxa.com/)
 
-- 💬 Ask me about **CSS & Javascript**
+- 💬 Ask me about **CSS, TS, React,Vue, Node**
 
 - 📫 How to reach me **davidgarciama@outlook.com**
 
