@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node**
 
-- 👨‍💻 All of my projects are available at [https://davidgarxa.com/](https://davidgarxa.com/)
+- 👨‍💻 All of my projects are available at [https://davidgarxa.com/](https://brianerd.com/)
 
 - 💬 Ask me about **CSS, TS, React,Vue, Node**
 
