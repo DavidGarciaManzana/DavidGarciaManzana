@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidgarciamanzana" alt="davidgarciamanzana" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on my own SaaS
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning Python
 
 - 👨‍💻 All of my projects are available at [https://brianerd.com/](https://brianerd.com/)
 
-- 💬 Ask me about **CSS, TS, React,Vue, Node**
+- 💬 Ask me about **Next Js, TS, Nest Js, Node**
 
 - 📫 How to reach me **davidgarciama@outlook.com**
 
@@ -53,17 +53,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidgarciamanzana&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=MVCPortfolio,Arrays---Flip-Cards,Drilling-Mud-Mex"           alt="davidgarciamanzana" />
 </p>
 
-🧙‍♂️ One challenge a day to keep boredom at bay! 😉
-
-
-<a href="https://www.codewars.com/users/BrianorEC">
-<img src="https://www.codewars.com/users/BrianorEC/badges/large" alt="Codewars badge"  ></img>
-</a>
-
-<br>
-<br>
-
-<a href="https://leetcode.com/BrianorEC/">
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FBrianorEC&logo=leetcode&logoColor=yellow" alt="Leetcode badge" ></img>
-</a>
 
